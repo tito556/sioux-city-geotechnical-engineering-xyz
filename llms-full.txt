@@ -1,0 +1,47 @@
+# Geotechnical Engineering — Sioux City
+
+> Geotechnical engineering services in Sioux City, United States.
+
+## Services
+- [Cbr Road](https://sioux-city.geotechnical-engineering.xyz/cbr-road/)
+- [Cpt Test](https://sioux-city.geotechnical-engineering.xyz/cpt-test/)
+- [Excavation Monitoring](https://sioux-city.geotechnical-engineering.xyz/excavation-monitoring/)
+- [Excavations](https://sioux-city.geotechnical-engineering.xyz/excavations/)
+- [Flexible Pavement](https://sioux-city.geotechnical-engineering.xyz/flexible-pavement/)
+- [Footings](https://sioux-city.geotechnical-engineering.xyz/footings/)
+- [Foundations](https://sioux-city.geotechnical-engineering.xyz/foundations/)
+- [Geophysics](https://sioux-city.geotechnical-engineering.xyz/geophysics/)
+- [Grain Size](https://sioux-city.geotechnical-engineering.xyz/grain-size/)
+- [Ground Improvement](https://sioux-city.geotechnical-engineering.xyz/ground-improvement/)
+- [Grouting](https://sioux-city.geotechnical-engineering.xyz/grouting/)
+- [In Situ Permeability](https://sioux-city.geotechnical-engineering.xyz/in-situ-permeability/)
+- [Investigation](https://sioux-city.geotechnical-engineering.xyz/investigation/)
+- [Lab In Situ](https://sioux-city.geotechnical-engineering.xyz/lab-in-situ/)
+- [Laboratory](https://sioux-city.geotechnical-engineering.xyz/laboratory/)
+- [Liquefaction](https://sioux-city.geotechnical-engineering.xyz/liquefaction/)
+- [Masw](https://sioux-city.geotechnical-engineering.xyz/masw/)
+- [Mat Foundations](https://sioux-city.geotechnical-engineering.xyz/mat-foundations/)
+- [Piles](https://sioux-city.geotechnical-engineering.xyz/piles/)
+- [Plate Load Test](https://sioux-city.geotechnical-engineering.xyz/plate-load-test/)
+- [Resistivity](https://sioux-city.geotechnical-engineering.xyz/resistivity/)
+- [Retaining Walls](https://sioux-city.geotechnical-engineering.xyz/retaining-walls/)
+- [Rigid Pavement](https://sioux-city.geotechnical-engineering.xyz/rigid-pavement/)
+- [Road Geotechnics](https://sioux-city.geotechnical-engineering.xyz/road-geotechnics/)
+- [Sand Cone Density](https://sioux-city.geotechnical-engineering.xyz/sand-cone-density/)
+- [Seismic](https://sioux-city.geotechnical-engineering.xyz/seismic/)
+- [Seismic Microzonation](https://sioux-city.geotechnical-engineering.xyz/seismic-microzonation/)
+- [Seismic Refraction](https://sioux-city.geotechnical-engineering.xyz/seismic-refraction/)
+- [Slope Stability](https://sioux-city.geotechnical-engineering.xyz/slope-stability/)
+- [Slopes](https://sioux-city.geotechnical-engineering.xyz/slopes/)
+- [Soft Ground Tunnels](https://sioux-city.geotechnical-engineering.xyz/soft-ground-tunnels/)
+- [Spt Drilling](https://sioux-city.geotechnical-engineering.xyz/spt-drilling/)
+- [Stone Columns](https://sioux-city.geotechnical-engineering.xyz/stone-columns/)
+- [Test Pits](https://sioux-city.geotechnical-engineering.xyz/test-pits/)
+- [Vibrocompaction](https://sioux-city.geotechnical-engineering.xyz/vibrocompaction/)
+
+## Contact
+- Website: https://sioux-city.geotechnical-engineering.xyz/
+
+## About
+This site provides geotechnical engineering services in Sioux City, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
